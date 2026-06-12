@@ -15,8 +15,7 @@
   <name>petclinic</name>
 
   <sonar.host.url>http://52.66.253.124:9000/</sonar.host.url>
-<sonar.login>admin</sonar.login>
-		<sonar.password>P@vanr13</sonar.password>
+<sonar.login>e574bb07-e518-433b-bf69-148524bf2154</sonar.login>
   
   <properties>
     <!-- Generic properties -->
