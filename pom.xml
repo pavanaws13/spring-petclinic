@@ -13,10 +13,9 @@
   <version>4.0.0-SNAPSHOT</version>
 
   <name>petclinic</name>
-<!--
+ <properties>
   <sonar.host.url>http://52.66.253.124:9000/</sonar.host.url>
-<sonar.login>e574bb07-e518-433b-bf69-148524bf2154</sonar.login>
-  -->
+ </properties>
   <properties>
     <!-- Generic properties -->
     <java.version>17</java.version>
